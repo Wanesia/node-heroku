@@ -11,4 +11,6 @@ router.post("/register", registerUser);
 //login a user
 router.post('/login', loginUser);
 
+//UPDATE
+
 module.exports = router;
